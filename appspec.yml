@@ -1,5 +1,0 @@
-version: 0.0
-ami: linux
-files:
-   -source: /index.tml
-    destination /var/www/html
